@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sudheshnajinna.com)
 <h1 align="center">Hi 👋, I'm Sudheshna Jinna</h1>
 <h3 align="center">A passionate Full Stack Developer | Accomplished Computer Scientist with Expertise in AI & ML | Master of Science (Computer & Information Science)@UF</h3>
-<img align="right" alt="Coding" width="290" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudheshnajinna" alt="sudheshnajinna" /></a> </p>
 
 - 🔭 I’m currently working on [LLM Chatbot generator as a Student Research assistant](https://funny-sunburst-aa2e17.netlify.app/)
